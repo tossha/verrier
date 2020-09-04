@@ -52,7 +52,7 @@
     "jest-enzyme": "6.1.2",
     "mobx": "4.10.0",
     "mobx-react": "5.4.4",
-    "node-sass": "4.11.0",
+    "node-sass": "4.13.1",
     "prettier": "1.18.2",
     "prop-types": "15.7.2",
     "react-app-rewired": "2.1.3",
