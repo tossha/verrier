@@ -39,7 +39,7 @@
     "react-select": "3.0.4",
     "simplebar": "4.0.0",
     "stats.js": "0.17.0",
-    "three": "0.105.2"
+    "three": "0.125.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "7.4.4",
